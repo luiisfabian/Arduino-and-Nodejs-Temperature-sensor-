@@ -31,3 +31,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 proyect template
 
 https://www.tinkercad.com/things/3DfKe7bn4r9-copy-of-practica1completo/editel?tenant=circuits?sharecode=XwpK-wPSS_8BntnrA9SYxocWD9f2WZXmIwSBVFlTbCs=
+
+
+start server node
+
+pm2 start server.js
+pm2 server delete
+pm2 ls
+pm2 logs
+
